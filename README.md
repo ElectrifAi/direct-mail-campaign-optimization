@@ -6,4 +6,4 @@ Our machine learning models are available through a Private Offer. Please contac
 
 SKU: DMCOP-PS-TAT-AWS-001
  
-AWS SageMaker:  
+AWS SageMaker:  https://aws.amazon.com/marketplace/pp/prodview-im2n4vy5qqk2y
